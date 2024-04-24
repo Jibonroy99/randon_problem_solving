@@ -1,0 +1,1 @@
+{"name":"Local: tempCodeRunnerFile","url":"c:\\codeForces\\tempCodeRunnerFile.cpp","tests":[{"id":1713365867323,"input":"5\n14 41\n45 53\n58 86\n54 82\n12 34","output":"Yes\nYes\nYes\nYes\nNo"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\codeForces\\tempCodeRunnerFile.cpp","group":"local","local":true}
